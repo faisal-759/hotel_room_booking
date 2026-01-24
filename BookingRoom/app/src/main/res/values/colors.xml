@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base App Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Red and White Theme -->
+    <color name="colorPrimary">#E57373</color> <!-- Light Red -->
+    <color name="colorPrimaryVariant">#D32F2F</color> <!-- Darker Red -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#FF8A80</color> <!-- Light Red Accent -->
+    <color name="colorSecondaryVariant">#FF5252</color> <!-- Red Accent -->
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start_red">#FFCDD2</color> <!-- Very Light Red -->
+    <color name="gradient_end_red">#E57373</color>   <!-- Light Red -->
+
+    <!-- Other Colors -->
+    <color name="light_red_background">#FFF5F5</color>
+
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "34176399257",
+    "firebase_url": "https://studio-354800899-3bffe-default-rtdb.firebaseio.com",
+    "project_id": "studio-354800899-3bffe",
+    "storage_bucket": "studio-354800899-3bffe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34176399257:android:cc13fc42925a805c96c508",
+        "android_client_info": {
+          "package_name": "com.hotel.hotalmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxGUa6kHr1b4M31j0k1OdRmfjpPnhT24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34176399257:android:1524cb99fdfbba8c96c508",
+        "android_client_info": {
+          "package_name": "com.room.bookingroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxGUa6kHr1b4M31j0k1OdRmfjpPnhT24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
